@@ -2,15 +2,16 @@
   "name": "nextjs-notion-starter-kit",
   "version": "2.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
-  "repository": "transitive-bullshit/nextjs-notion-starter-kit",
+  "description": "Adventure blog and photos",
+  "author": "Alec Caputo",
+  "repository": "aleccaputo/appas=adventures",
   "license": "MIT",
   "engines": {
     "node": ">=16"
   },
   "scripts": {
     "dev": "next dev",
+    "install-default": "npm i --registry=https://registry.npmjs.org --legacy-peer-deps",
     "build": "next build",
     "start": "next start",
     "deploy": "vercel deploy",
