@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Appa\'s Adventures',
   domain: 'appas-adventures.vercel.app',
-  author: 'Alec Caputo',
+  author: 'Alec',
 
   // open graph metadata (optional)
   description: 'Appa the Jeep adventuring across the US',
